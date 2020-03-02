@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009688"
+    android:backgroundTint="#009688"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/BtnXML"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="PorXML"
+        android:text="Por XML" />
+
+    <Button
+        android:id="@+id/Btnlisten"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Por listener" />
+
+    <Button
+        android:id="@+id/BtnAc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Por clase Anonima" />
+
+    <Button
+        android:id="@+id/BtnC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Por clase" />
+</LinearLayout>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Eva1_6_Idioma</string>
+    <string name="txtnom">Name</string>
+    <string name="txtape">last names</string>
+    <string name="txtedad">Age</string>
+    <string name="rgsex">Sex</string>
+    <string name="rbsex1">A lot</string>
+    <string name="rbsex2">A bit</string>
+    <string name="rbsex3">Any</string>
+    <string name="rgidioma">Lenguage</string>
+    <string name="rbesp">Spanish</string>
+    <string name="rbing">Inglish</string>
+    <string name="btnr">Register</string>
+</resources>
